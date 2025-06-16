@@ -37,4 +37,3 @@ cd "C:\Users\seuusuario\AppData\Local\Android\Sdk\cmdline-tools\latest\bin"
 Clique em OK em todas as janelas para salvar as alterações.
 
 ### Windows
-
